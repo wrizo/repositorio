@@ -1,0 +1,4 @@
+Hola, mi nombre es guillermo urbina,
+me gustan los videojuegos,
+me gusta la tecnologia, 
+y actualmente programo en golang.
